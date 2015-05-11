@@ -65,6 +65,9 @@
 * [xortool](https://github.com/hellman/xortool)
 * [pycrypto module](https://www.dlitz.net/software/pycrypto/)
 
+## Esoteric
+* [Braincopter](https://github.com/syky27/BrainFuck-BrainLoller-BrainCopter)
+
 ## Online tools
 
 ### Crypto
